@@ -1,4 +1,4 @@
-# Nerdware Default Community Health Files
+# Nerdware Organization Profile Repo
 
 See [this GitHub Docs page][.github-repos] for more info on special .github repositories.
 

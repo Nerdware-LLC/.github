@@ -1,8 +1,6 @@
-# Nerdware
+# Nerdware: Cloud & Software Solutions
 
-- Software Development
-- Cloud Architecture
-- Enterprise Solutions
+Driven by a passion for empowering businesses and consumers by solving problems.
 
 ## Contact
 
