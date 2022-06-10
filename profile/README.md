@@ -2,9 +2,9 @@
 
 [![GitHub Org Profile Banner](./profile/nerdware_code_your_cloud_banner.png)](https://www.youtube.com/channel/UCguSCK_j1obMVXvv-DUS3ng)
 
-### 💬 Contact
+### **💬 Contact**
 
-Trevor Anderson - [@TeeRevTweets](https://twitter.com/teerevtweets) - [T.AndersonProperty@gmail.com](mailto:T.AndersonProperty@gmail.com)
+**Trevor Anderson - [@TeeRevTweets](https://twitter.com/teerevtweets) - [T.AndersonProperty@gmail.com](mailto:T.AndersonProperty@gmail.com)**
 
   <a href="https://www.youtube.com/channel/UCguSCK_j1obMVXvv-DUS3ng">
     <img src="https://github.com/trevor-anderson/trevor-anderson/blob/main/assets/YouTube_icon_circle.svg" height="40" />
