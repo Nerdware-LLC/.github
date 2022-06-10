@@ -31,7 +31,6 @@ Trevor Anderson - [@TeeRevTweets](https://twitter.com/teerevtweets) - [T.Anderso
 
 </div>
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- LINKS -->
 
 [profile-repos-url]: https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file
