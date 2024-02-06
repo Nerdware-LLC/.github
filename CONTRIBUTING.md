@@ -48,4 +48,4 @@ All contributors are required to adhere to the [code of conduct](./CODE_OF_CONDU
 
 ## License
 
-All code contributions shall be made using the [MIT](https://opensource.org/licenses/MIT) license.
+All code contributions from non-owner contributors shall be made using the [MIT](https://opensource.org/licenses/MIT) license.
