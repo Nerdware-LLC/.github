@@ -16,7 +16,7 @@ Trevor Anderson — [Trevor@Nerdware.cloud](mailto:trevor@nerdware.cloud) — [@
 &emsp;
 [<img src="https://github.com/trevor-anderson/trevor-anderson/blob/main/assets/email_icon_circle.svg" height="40" alt="Email Trevor Anderson" />](mailto:trevor@nerdware.cloud)
 
-  <a href="https://www.youtube.com/watch?v=GO5FwsblpT8" target="_blank" rel="noreferrer">
+  <a href="https://www.youtube.com/watch?v=GO5FwsblpT8">
     <strong><i>Dare Mighty Things.</i></strong>
   </a>
 
