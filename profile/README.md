@@ -1,6 +1,6 @@
 <div align="center">
 
-[![GitHub Org Profile Banner](./profile/nerdware_code_your_cloud_banner.png)](https://www.youtube.com/@nerdware-io)
+[![GitHub Org Profile Banner](./nerdware_code_your_cloud_banner.png)](https://www.youtube.com/@nerdware-io)
 
 </div>
 
